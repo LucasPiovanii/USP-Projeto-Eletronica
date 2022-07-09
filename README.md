@@ -41,6 +41,7 @@ Componente elétrico capaz de acumular cargas elétricas na presença de uma dif
 Componente eletrônico utilizado para fins de segurança, impedindo a passagem de correntes muito altas e, assim, protegendo os demais componentes do circuito em eventuais picos de corrente elétrica.
 
 ## Circuito Construído
+![image](https://user-images.githubusercontent.com/106783529/178118865-d62cf76a-c01c-4f21-aaf0-ca49457fe16d.png)
 **Simulação Falstad:** https://tinyurl.com/2ct48ao7
 
 ## Integrantes do Grupo:
