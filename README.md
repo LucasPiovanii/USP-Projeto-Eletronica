@@ -16,7 +16,7 @@ Será construída uma fonte capaz de transformar corrente alternada de tensão 1
 10x | Resistor 2K | R$0,07 | R$0,70
 1x | Capacitor | R$1,05 | R$1,05
 1x | Fusível 20A | R$1,10 | R$1,10
-----------|----------|----------| **R$12,00**
+-------------|--------------------|------------------| **R$12,00**
 
 ## Ficha Técnica 
 ### Diodo Retificador
