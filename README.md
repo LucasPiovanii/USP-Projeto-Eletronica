@@ -45,6 +45,14 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 ![image](https://user-images.githubusercontent.com/106783529/178118865-d62cf76a-c01c-4f21-aaf0-ca49457fe16d.png)
 **Simulação Falstad:** https://tinyurl.com/2ct48ao7
 
+## Cálculo do Capacitor
+
+## Esquemático no EAGLE
+
+## PCB no EAGLE
+
+## Vídeo explicativo no YouTube
+
 ## Integrantes do Grupo:
   Aluno(a) | Nº USP 
 -----------|---------
