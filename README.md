@@ -20,6 +20,8 @@ Será construída uma fonte capaz de transformar corrente alternada de tensão 1
 -------------|--------------------|------------------| **R$12,00**
 
 ## Ficha Técnica 
+### Transformador
+
 ### Diodo Retificador
 Em termos gerais, o diodo retificador é um dispositivo semicondutor utilizado para converter sinais em corrente alternada para corrente contínua. No projeto em questão, possibilitará o aproveitamento de ambos os ciclos da corrente alternada de origem.
 
