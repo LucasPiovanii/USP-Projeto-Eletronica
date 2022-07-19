@@ -55,7 +55,9 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 ![image](https://user-images.githubusercontent.com/106783529/179821027-824d586c-07b6-488f-9549-8881686dcff1.png)
 
 ## PCB no EAGLE
-![image](https://user-images.githubusercontent.com/106783529/179821103-f6eb3b4b-9590-47c8-b5b3-e0f3b17e944c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106783529/179821103-f6eb3b4b-9590-47c8-b5b3-e0f3b17e944c.png">
+</p>
 
 ## Vídeo explicativo no YouTube
 
