@@ -45,11 +45,12 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 ![image](https://user-images.githubusercontent.com/106783529/178118865-d62cf76a-c01c-4f21-aaf0-ca49457fe16d.png)
 **Simulação Falstad:** https://tinyurl.com/2ct48ao7
 
+## Cálculo do Capacitor
+
+
 ## Montagem do circuito
 ![IMG-7271](https://user-images.githubusercontent.com/106783009/179778441-c1ded37f-155c-426b-852c-3fb0545bdf77.jpg)
 ![IMG-7269](https://user-images.githubusercontent.com/106783009/179778467-e04f566a-5c7e-4c29-b1a4-8a4c80ee233b.jpg)
-
-## Cálculo do Capacitor
 
 ## Esquemático no EAGLE
 <p align="center">
