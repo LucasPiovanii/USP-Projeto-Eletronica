@@ -54,12 +54,12 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 
 ## Esquemático no EAGLE
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106783529/179821735-b2a2d7ed-cc8a-477d-8c65-a69e77dcd69d.png">
+  <img src="https://user-images.githubusercontent.com/106783529/179824835-ba0f21e3-cf38-4019-8b09-59637c26c731.png">
 </p>
 
 ## PCB no EAGLE
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106783529/179821103-f6eb3b4b-9590-47c8-b5b3-e0f3b17e944c.png">
+  <img src="https://user-images.githubusercontent.com/106783529/179825095-4a5bacdb-22d6-4f1d-b97b-149725f80f87.png">
 </p>
 
 ## Vídeo explicativo no YouTube
