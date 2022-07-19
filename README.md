@@ -52,7 +52,9 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 ## Cálculo do Capacitor
 
 ## Esquemático no EAGLE
-![image](https://user-images.githubusercontent.com/106783529/179821027-824d586c-07b6-488f-9549-8881686dcff1.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106783529/179821735-b2a2d7ed-cc8a-477d-8c65-a69e77dcd69d.png">
+</p>
 
 ## PCB no EAGLE
 <p align="center">
