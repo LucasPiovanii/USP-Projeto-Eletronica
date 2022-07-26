@@ -21,6 +21,7 @@ Será construída uma fonte capaz de transformar corrente alternada de tensão 1
 
 ## Ficha Técnica 
 ### Transformador
+Para que os equipamentos eletrônicos funcionem de forma segura e eficiente, o transformador é responsável por reduzir a dpp de 127v proveniente da tomada, para a tensão desejada, no caso do projeto, entre 3 e 12 volts.
 
 ### Diodo Retificador
 Em termos gerais, o diodo retificador é um dispositivo semicondutor utilizado para converter sinais em corrente alternada para corrente contínua. No projeto em questão, possibilitará o aproveitamento de ambos os ciclos da corrente alternada de origem.
