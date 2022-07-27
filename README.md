@@ -66,6 +66,7 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 </p>
 
 ## Vídeo explicativo no YouTube
+Link para o Vídeo: https://youtu.be/ZhOBoxtjqWE
 
 ## Integrantes do Grupo:
   Aluno(a) | Nº USP 
