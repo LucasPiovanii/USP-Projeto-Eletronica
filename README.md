@@ -49,7 +49,7 @@ Componente eletrônico utilizado para fins de segurança, impedindo a passagem d
 **Simulação Falstad:** https://tinyurl.com/2ct48ao7
 
 ## Cálculo do Capacitor
-
+![aiai](https://user-images.githubusercontent.com/106783529/181341829-ca50c7d5-5f89-4c3b-9ffa-d65560f58a2a.png)
 
 ## Montagem do circuito
 ![IMG-7271](https://user-images.githubusercontent.com/106783009/179778441-c1ded37f-155c-426b-852c-3fb0545bdf77.jpg)
